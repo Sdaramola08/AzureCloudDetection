@@ -13,7 +13,6 @@
 - Write Custom Analytic Rules to detect Microsoft Security Events.
 - Utilizing MITRE ATT&CK to map adversary tactics, techniques, detection, and mitigation procedures
 
-I want to thank and credit the persons at Cyberwox Academy for creating this lab as I stepped through each of these portions of their lab that was created.
 
 
 #
