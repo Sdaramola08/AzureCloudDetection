@@ -173,6 +173,5 @@ Once you have selected your workspace, scroll to the bottom of the page and sele
 
 <p align="center"> <img src="https://i.imgur.com/DMY2CLx.png" height="50%" width="50%" alt=" Select Add button"/></p>
 
-<a href="https://github.com/0xbythesecond/getting-data-into-sentinel"> Part 2: Getting Data into Sentinel </a>
 
 
