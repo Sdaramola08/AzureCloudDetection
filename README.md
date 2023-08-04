@@ -1,4 +1,4 @@
-# Azure Cloud Detection 🕵️
+# Azure Cloud Detection
 
 ![Detection Lab](https://github.com/0xbythesecond/azure-cloud-detection/blob/main/Detection%20Lab.png?raw=true)
 
